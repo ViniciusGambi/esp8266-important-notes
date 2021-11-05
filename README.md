@@ -9,7 +9,7 @@ GPIO2, GPIO0, and MTDO are used to select booting mode and the SDIO mode;
 
 U0TXD should not be pulled externally to a low logic level during the powering-up.
 
-![Untitled](ESP8266%20f65ba6727bed47c3b4903ec83597d5c2/Untitled.png)
+![observations](https://raw.githubusercontent.com/ViniciusGambi/esp8266-important-notes/main/esp.png)
 
 **About power modes**
 
