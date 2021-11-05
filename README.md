@@ -1,6 +1,8 @@
 ## Important notes about ESP8266
 some important information for making initial setup of esp8266
 
+### Notes
+
 CHIP_ENABLE (EN) / CHIP_POWERDOWN (CH_PD)
 HIGH - chip works properly
 LOW -> off, small current consumed
